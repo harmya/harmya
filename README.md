@@ -1,4 +1,4 @@
-# Hello! I'm Harmya
+# Hello! I'm Harmya ![Harmya's GitHub stats](https://github.com/harmya/harmya/blob/main/icons8-home.gif)
 ### About me :computer: :
 - I am a sophomore studying Computer Science and Mathematics at Purdue University :steam_locomotive:
 - I like working on things involving Machine Learning 📠 and Software Engineering :pager:
