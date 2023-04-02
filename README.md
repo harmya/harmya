@@ -2,7 +2,7 @@
 
 ### About me :computer: :
 - I study Computer Science and Mathematics at Purdue University :steam_locomotive:
-- I like working on things involving Machine Learning :floppy_disk: and Software Engineering :pager:
+- I like working on things involving Machine Learning 📠 and Software Engineering :pager:
 - Research in Social Media Recommender Systems, Natural Langauge Processing, AI Interpretability and Text Mining
 
 ### 
