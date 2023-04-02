@@ -1,7 +1,7 @@
 # Hello! I'm Harmya :)
 
 ### About me :computer: :
-- I am sophomore studying Computer Science and Mathematics at Purdue University :steam_locomotive:
+- I am a sophomore studying Computer Science and Mathematics at Purdue University :steam_locomotive:
 - I like working on things involving Machine Learning 📠 and Software Engineering :pager:
 - Research :microscope: in Social Media Recommender Systems, Natural Langauge Processing, AI Interpretability and Text Mining
 
