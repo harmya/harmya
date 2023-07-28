@@ -1,6 +1,6 @@
 # Hello! I'm Harmya ![Me](https://github.com/harmya/harmya/blob/main/icons8-user-male.gif)
 ### About me :computer: :
-- I am a sophomore studying Computer Science and Mathematics at Purdue University :steam_locomotive:
+- I am a rising junior studying Computer Science and Mathematics at Purdue University :steam_locomotive:
 - I like working on things involving Machine Learning 📠 and Software Engineering :pager:
 - Research :microscope: in Social Media Recommender Systems, Natural Langauge Processing, AI Interpretability and Text Mining
 
