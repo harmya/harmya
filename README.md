@@ -2,7 +2,7 @@
 ### About me :computer: :
 - I am a rising junior studying Computer Science and Mathematics at Purdue University :steam_locomotive:
 - I like working on things involving Machine Learning 📠 and Software Engineering :pager:
-- Research :microscope: in Social Media Recommender Systems, Natural Langauge Processing, AI Interpretability and Text Mining
+- Research :microscope: in Natural Langauge Processing, AI Interpretability and Social Media Recommender Systems
 
 Read More at https://harmya.github.io
 
